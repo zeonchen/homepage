@@ -35,7 +35,7 @@ sections:
       title: '📚Publications'
       subtitle: ''
       text: |-
-        - **__Kehua Chen__**, Meixin Zhu\*, Lijun Sun, Hai Yang. "Combining Time Dependency and Behavioral Game: A Deep Markov Cognitive Hierarchy Model for Human-Like Discretionary Lane Changing Modeling." *25th International Symposium on Transportation and Traffic Theory (ISTTT25) & Transportation Research Part B: Methodological.* (IF=8.00, JCR Q1) [doi:10.1016/j.trb.2024.102980](https://doi.org/10.1016/j.trb.2024.102980)
+        - <p style="font-size:18px;">**__Kehua Chen__**, Meixin Zhu\*, Lijun Sun, Hai Yang. "Combining Time Dependency and Behavioral Game: A Deep Markov Cognitive Hierarchy Model for Human-Like Discretionary Lane Changing Modeling." *25th International Symposium on Transportation and Traffic Theory (ISTTT25) & Transportation Research Part B: Methodological.* (IF=8.00, JCR Q1) [doi:10.1016/j.trb.2024.102980](https://doi.org/10.1016/j.trb.2024.102980)</p>
         - **__Kehua Chen__**, Yuhao Luo, Meixin Zhu\*, Hai Yang. "Human-Like Interactive Lane-Change Modeling Based on Reward-Guided Diffusive Predictor and Planner." *IEEE Transactions on Intelligent Transportation Systems.* (IF=8.30, JCR Q1) [doi:10.1109/TITS.2024.3520613](https://doi.org/10.1109/TITS.2024.3520613)
         - **__Kehua Chen__**, Yuxuan Liang, Jindong Han, Siyuan Feng\*, Meixin Zhu\*, Hai Yang. "Semantic-Fused Multi-Granularity Cross-City Traffic Prediction." *Transportation Research Part C: Emerging Technologies.* (IF=10.10, JCR Q1) [doi:10.1016/j.trc.2024.104604](https://doi.org/10.1016/j.trc.2024.104604)
         - **__Kehua Chen__**, Jindong Han, Siyuan Feng\*, Meixin Zhu, Hai Yang. "Region-Aware Hierarchical Graph Contrastive Learning for Ride-Hailing Driver Profiling." *Transportation Research Part C: Emerging Technologies.* (IF=10.10, JCR Q1) [doi:10.1016/j.trc.2023.104325](https://doi.org/10.1016/j.trc.2023.104325)
@@ -52,7 +52,7 @@ sections:
         - Edward O’Dwyer, **__Kehua Chen__**, Hongcheng Wang, Aijie Wang, Nilay Shah, Miao Guo\*. *"Optimisation of wastewater treatment strategies in eco-industrial parks: Technology, location and transport."* *Chemical Engineering Journal.* (IF=15.10, JCR Q1) [doi:10.1016/j.cej.2019.122643](https://doi.org/10.1016/j.cej.2019.122643)
         - Yuhao Luo, **__Kehua Chen__**, Meixin Zhu\*. *"GRANP: A Graph Recurrent Attentive Neural Process Model for Vehicle Trajectory Prediction."* *IEEE Intelligent Vehicles Symposium (IV 2024).* [doi:10.1109/IV55156.2024.10588741](https://doi.org/10.1109/IV55156.2024.10588741)
     design:
-      css_class: dark
+    
       columns: '1'
   # - block: collection
   #   id: papers
