@@ -56,7 +56,7 @@ education:
       # text: 'Read Thesis'
       # url: 'https://example.com'
   - area: MSc in Environmental Sciences
-    institution: Massachusetts Institute of Technology
+    institution: University of Copenhagen & University of Chinese Academy of Sciences
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -84,7 +84,7 @@ work:
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
