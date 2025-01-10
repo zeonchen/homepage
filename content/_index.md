@@ -51,8 +51,8 @@ sections:
         - <small>Hui Zhong, **__Kehua Chen__**, Meixin Zhu\*, Chenxi Liu, Ruimin Ke. *"Models for Predicting Vehicle Emissions: A Comprehensive Review."* *Science of the Total Environment.* (IF=9.80, JCR Q1) [doi:10.1016/j.scitotenv.2024.171324](https://doi.org/10.1016/j.scitotenv.2024.171324)</small>
         - <small>Edward O’Dwyer, **__Kehua Chen__**, Hongcheng Wang, Aijie Wang, Nilay Shah, Miao Guo\*. *"Optimisation of wastewater treatment strategies in eco-industrial parks: Technology, location and transport."* *Chemical Engineering Journal.* (IF=15.10, JCR Q1) [doi:10.1016/j.cej.2019.122643](https://doi.org/10.1016/j.cej.2019.122643)</small>
         - <small>Yuhao Luo, **__Kehua Chen__**, Meixin Zhu\*. *"GRANP: A Graph Recurrent Attentive Neural Process Model for Vehicle Trajectory Prediction."* *IEEE Intelligent Vehicles Symposium (IV 2024).* [doi:10.1109/IV55156.2024.10588741](https://doi.org/10.1109/IV55156.2024.10588741)</small>
-    # design:
-    #   columns: '1'
+    design:
+      columns: '1'
   # - block: collection
   #   id: papers
   #   content:
