@@ -45,6 +45,11 @@ interests:
   - Urban & Sustainable Computing
   - Deep Generative Model
 
+experience:
+  - Autonomous Driving
+  - Urban & Sustainable Computing
+  - Deep Generative Model
+
 education:
   - area: PhD in Intelligent Transportation
     institution: The Hong Kong University of Science and Technology
