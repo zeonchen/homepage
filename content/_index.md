@@ -55,11 +55,11 @@ sections:
   #     columns: 2
   - block: collection
     content:
-      title: Featured Publications
+      title: Publications
       text: ""
       filters:
         folders:
-          - publication/journal-article/cite.bib
+          - publication/
         exclude_featured: false
     design:
       view: citation
