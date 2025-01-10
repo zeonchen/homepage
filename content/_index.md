@@ -52,6 +52,7 @@ sections:
         - Edward O’Dwyer, **__Kehua Chen__**, Hongcheng Wang, Aijie Wang, Nilay Shah, Miao Guo\*. *"Optimisation of wastewater treatment strategies in eco-industrial parks: Technology, location and transport."* *Chemical Engineering Journal.* (IF=15.10, JCR Q1) [doi:10.1016/j.cej.2019.122643](https://doi.org/10.1016/j.cej.2019.122643)
         - Yuhao Luo, **__Kehua Chen__**, Meixin Zhu\*. *"GRANP: A Graph Recurrent Attentive Neural Process Model for Vehicle Trajectory Prediction."* *IEEE Intelligent Vehicles Symposium (IV 2024).* [doi:10.1109/IV55156.2024.10588741](https://doi.org/10.1109/IV55156.2024.10588741)
     design:
+      css_class: dark
       columns: '1'
   # - block: collection
   #   id: papers
