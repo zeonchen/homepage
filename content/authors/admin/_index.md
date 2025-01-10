@@ -50,9 +50,9 @@ education:
     institution: The Hong Kong University of Science and Technology
     date_start: 2021-09
     date_end: 2024-10
-    # summary: |
+    summary: |
       # Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    # button:
+    button:
       # text: 'Read Thesis'
       # url: 'https://example.com'
   - area: MEng Artificial Intelligence
