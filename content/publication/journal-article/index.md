@@ -1,19 +1,22 @@
 ---
-title: "An example journal article"
+title: "Human-Like Interactive Lane-Change Modeling Based on Reward-Guided Diffusive Predictor and Planner"
 authors:
-- admin
-- Robert Ford
+- Kehua Chen
+- Yuhao Luo
+- Meixin Zhu
+- Hai Yang
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- ""
+- ""
+- ""
+- ""
 date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-publication: "*Journal of Source Themes, 1*(1)"
-
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+publishDate: "2024-01-01T00:00:00Z"
+publication: "*IEEE Transactions on Intelligent Transportation Systems*"
+url_pdf: "https://ieeexplore.ieee.org/document/10819263"
 ---
 
 {{% callout note %}}
