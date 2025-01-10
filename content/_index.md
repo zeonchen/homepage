@@ -59,7 +59,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - publication/journal-article/cite.bib
         exclude_featured: false
     design:
       view: citation
