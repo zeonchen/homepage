@@ -41,20 +41,20 @@ profiles:
     url: https://scholar.google.com/citations?user=0lAV-pkAAAAJ&hl=en&inst=1381320739207392350
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Autonomous Driving
+  - Urban & Sustainable Computing
+  - Deep Generative Model
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+  - area: PhD in Intelligent Transportation
+    institution: The Hong Kong University of Science and Technology
+    date_start: 2021-09
+    date_end: 2024-10
+    # summary: |
+      # Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+      # text: 'Read Thesis'
+      # url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
