@@ -48,8 +48,8 @@ interests:
 education:
   - area: PhD in Intelligent Transportation
     institution: The Hong Kong University of Science and Technology
-    date_start: 2021-09
-    date_end: 202-10
+    date_start: 2021-09-01
+    date_end: 2024-10-15
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
