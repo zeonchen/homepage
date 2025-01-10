@@ -35,11 +35,24 @@ sections:
       title: '📚Publications'
       subtitle: ''
       text: |-
-        - Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        - **__Kehua Chen__**, Meixin Zhu\*, Lijun Sun, Hai Yang. "Combining Time Dependency and Behavioral Game: A Deep Markov Cognitive Hierarchy Model for Human-Like Discretionary Lane Changing Modeling." *25th International Symposium on Transportation and Traffic Theory (ISTTT25) & Transportation Research Part B: Methodological.* (IF=8.00, JCR Q1) [doi:10.1016/j.trb.2024.102980](https://doi.org/10.1016/j.trb.2024.102980)
 
-        - I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        - Please reach out to collaborate 😃
+        - **__Kehua Chen__**, Yuhao Luo, Meixin Zhu\*, Hai Yang. "Human-Like Interactive Lane-Change Modeling Based on Reward-Guided Diffusive Predictor and Planner." *IEEE Transactions on Intelligent Transportation Systems.* (IF=8.30, JCR Q1) [doi:10.1109/TITS.2024.3520613](https://doi.org/10.1109/TITS.2024.3520613)
+
+        - **__Kehua Chen__**, Yuxuan Liang, Jindong Han, Siyuan Feng\*, Meixin Zhu\*, Hai Yang. "Semantic-Fused Multi-Granularity Cross-City Traffic Prediction." *Transportation Research Part C: Emerging Technologies.* (IF=10.10, JCR Q1) [doi:10.1016/j.trc.2024.104604](https://doi.org/10.1016/j.trc.2024.104604)
+
+        - **__Kehua Chen__**, Jindong Han, Siyuan Feng\*, Meixin Zhu, Hai Yang. "Region-Aware Hierarchical Graph Contrastive Learning for Ride-Hailing Driver Profiling." *Transportation Research Part C: Emerging Technologies.* (IF=10.10, JCR Q1) [doi:10.1016/j.trc.2023.104325](https://doi.org/10.1016/j.trc.2023.104325)
+
+        - **__Kehua Chen__**, Hongcheng Wang, Borja Valverde Perezc, Siyuan Zhai, Luca Vezzaroc\*, Aijie Wang\*. "Optimal control towards sustainable wastewater treatment plants based on deep reinforcement learning." *Chemosphere.* (IF=8.80, JCR Q1) [doi:10.1016/j.chemosphere.2021.130498](https://doi.org/10.1016/j.chemosphere.2021.130498)
+
+        - **__Kehua Chen__**, Hongcheng Wang\*, Jinglong Han, Wenzong Liu, Haoyi Cheng, Bin Liang, Aijie Wang\*. "The application of footprints for assessing the sustainability of wastewater treatment plants: a review." *Journal of Cleaner Production.* (IF=11.10, JCR Q1) [doi:10.1016/j.jclepro.2020.124053](https://doi.org/10.1016/j.jclepro.2020.124053)
+
+        - **__Kehua Chen__**, Guangbo Li, Hewen Li, Yuqi Wang, Wenzhe Wang, Hongcheng Wang\*. "Quantifying Uncertainty: Air Quality Forecasting Based on Dynamic Spatial-Temporal Denoising Diffusion Probabilistic Model." *Environmental Research.* (IF=8.20, JCR Q1) [doi:10.1016/j.envres.2024.118438](https://doi.org/10.1016/j.envres.2024.118438)
+
+        - **__Kehua Chen__**, Xianda Chen, Zihan Yu, Meixin Zhu\*, Hai Yang. "EquiDiff: A Conditional Equivariant Diffusion Model for Trajectory Prediction." *IEEE Conference on Intelligent Transportation Systems (ITSC) 2023.* [doi:10.1109/ITSC57777.2023.10421892](https://doi.org/10.1109/ITSC57777.2023.10421892)
+
+        - Chengyuan Zhang\#, **__Kehua Chen__\#** (Co-First Author), Meixin Zhu\*, Hai Yang, Lijun Sun. "Learning Car-Following Behaviors Using Bayesian Matrix Normal Mixture Regression." *IEEE Intelligent Vehicles Symposium (IV 2024).* [doi:10.1109/IV55156.2024.10588568](https://doi.org/10.1109/IV55156.2024.10588568)
+
     design:
       columns: '1'
   # - block: collection
