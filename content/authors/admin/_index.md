@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Kehua Chen
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Kehua
+last_name: Chen
 
 # Status emoji
 status:
-  icon: ☕️
+  # icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,49 +20,43 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral Associate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Washington
+    # url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:zeonchen@uw.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/zeonchen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/kh-chen/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=0lAV-pkAAAAJ&hl=en&inst=1381320739207392350
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Autonomous Driving
+  - Urban & Sustainable Computing
+  - Deep Generative Model
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: PhD in Intelligent Transportation
+    institution: The Hong Kong University of Science and Technology
+    date_start: 2021-09-01
+    date_end: 2024-10-15
+    # summary: |
+      # Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+      # text: 'Read Thesis'
+      # url: 'https://example.com'
+  - area: MSc in Environmental Sciences
+    institution: University of Copenhagen & University of Chinese Academy of Sciences
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -72,8 +66,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BEng in Civil Engineering
+    institution: Chongqing University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -90,7 +84,7 @@ work:
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -183,4 +177,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to my homepage. I am currently a Postdoctoral Associate at University of Washington, and my collaborating supervisor is [Prof. Yinhai Wang](https://www.ce.washington.edu/facultyfinder/yinhai-wang). I earned my PhD degree at The  Hong Kong University of Science and Technology, supervised by [Prof. Hai Yang](https://cehyang.people.ust.hk/). My research mainly focuses on Urban & Sustainable Computing, and Autonomous Driving. The methodologies cover Graph Neural Networks, Deep Generative Model, Bayesian Inference, Causal Inference, Reinforcement Learning, Game Theory, etc.
